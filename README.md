@@ -1,3 +1,5 @@
+\[[In English](#create-a-linux-virtual-machine-in-an-isolated-virtual-network-environment)\]
+
 # 仮想ネットワーク内の閉域環境への Linux 仮想マシンの作成
 
 このハンズオンでは、仮想ネットワークで閉域化された環境に Linux 仮想マシンをデプロイする手順を説明します。
@@ -28,8 +30,6 @@
 2. [Linux 仮想マシンを作成し、Jump Box マシンから SSH 接続で操作](jp-ex02.md)
 
 <br>
-
-\[In English\]
 
 # Create a Linux Virtual Machine in an Isolated Virtual Network Environment
 
